@@ -1,0 +1,1 @@
+Stock Firmware for TP-Link Archer C8v1 and Archer C8v2 originally uploaded by `delhite2` here: [https://forum.dd-wrt.com/phpBB2/viewtopic.php?t=311049](https://forum.dd-wrt.com/phpBB2/viewtopic.php?t=311049)
